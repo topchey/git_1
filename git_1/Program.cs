@@ -9,6 +9,7 @@ namespace git_1
     class Program
     {
         string branch_1 = "branch_1";
+        string branch_2 = "branch_2";
 
         static void Main(string[] args)
         {
