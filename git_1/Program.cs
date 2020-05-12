@@ -10,6 +10,7 @@ namespace git_1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("commit_1");
         }
     }
 }
